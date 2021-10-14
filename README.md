@@ -1,2 +1,2 @@
 # WebConf
-Webui to generate conf for haProxy
+Webui to generate conf for HaProxy and apache httpd
